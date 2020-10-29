@@ -8,6 +8,6 @@
 - 👻 I plan on learning C# next.
 
 # My Socials
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/YouTube_play_button_circular_%282013-2017%29.svg/1024px-YouTube_play_button_circular_%282013-2017%29.svg.png" height="24" style="margin-Bottom:-6px"/>    YouTube - [404NotFound](https://www.youtube.com/channelUCSzLQed52dvtdJz7BkX6nBQ)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/YouTube_play_button_circular_%282013-2017%29.svg/1024px-YouTube_play_button_circular_%282013-2017%29.svg.png" height="24"/>    YouTube - [404NotFound](https://www.youtube.com/channelUCSzLQed52dvtdJz7BkX6nBQ)
 
-- <img src="https://assets.stickpng.com/images/5cb78671a7c7755bf004c14b.png" height="24" style="margin-Bottom:-6px"/>    TikTok Account - [404NotFound](https://tiktok.com/thispagedoesntexist)
+- <img src="https://2.bp.blogspot.com/-kflCjdulWc4/XD-b18R9AdI/AAAAAAAAG7M/VygjROg5RXs7ynX_ihc_D-WlApNZmnngwCK4BGAYYCw/s1600/Icon%2BTiktok.png" height="24"/>    TikTok Account - [404NotFound](https://tiktok.com/thispagedoesntexist)
