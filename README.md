@@ -12,4 +12,4 @@
 - <img align="center" alt="TikTok" src="https://2.bp.blogspot.com/-kflCjdulWc4/XD-b18R9AdI/AAAAAAAAG7M/VygjROg5RXs7ynX_ihc_D-WlApNZmnngwCK4BGAYYCw/s1600/Icon%2BTiktok.png" height="24"/>    [TikTok Account](https://tiktok.com/thispagedoesntexist)
 
 # Statistics
-<img align="left" alt="404's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Its-404&show_icon=true&hide_border=true&count_private=true&theme=tokyonight"/>
+<img align="left" alt="404's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Its-404&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=404 Statistics Not Found&title_color=3795e0&bg_color=23272d&text_color=d9fdff"/>
