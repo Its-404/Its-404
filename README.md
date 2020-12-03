@@ -1,9 +1,9 @@
 # **404 Page Not Found**
 - 👋 Hello World!
-- 🎃 I started learning Java in March of 2020.
-- 🦇 My first projects were minecraft mods built with forge. Hacked clients specifically. 🤫
-- 💀 I now code Paper plugins and I'm currently working on one of my biggest projects called AmongSus.
-- 👻 I plan on learning C# next.
+- 🎅 I started learning Java in March of 2020.
+- 🎁 My first projects were minecraft mods built with forge. Hacked clients specifically. 🤫
+- 🎄 I now code Paper plugins and I'm currently working on one of my biggest projects called AmongSus.
+- ☃️ I plan on learning C# next.
 
 # My Socials
 - <img align="center" alt="YouTube" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/YouTube_play_button_circular_%282013-2017%29.svg/1024px-YouTube_play_button_circular_%282013-2017%29.svg.png" height="24"/>    [YouTube](https://www.youtube.com/channel/UCSzLQed52dvtdJz7BkX6nBQ)
